@@ -1,3 +1,3 @@
 ## Basic News Model
 
-A very simmple news subscription model implemented using the Observer Design Pattern
+A very simple news subscription model implemented using the Observer Design Pattern
